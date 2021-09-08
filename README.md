@@ -1,2 +1,2 @@
-# CheckOTA
-To OTA testing purposes
+# CheckOTA 
+For OTA testing purposes
